@@ -1,16 +1,21 @@
-## Hi there 👋
+Hello! Welcome to my github.
 
-<!--
-**brandonfernandes04-dev/brandonfernandes04-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programmer who is currently focusing on building web and desktop apps with JS and Node JS.
+I like to study new concepts within CS and enjoy the experince of adding a new skill to my tool belt!
+My Long term Goal for CS is to become skilled and adept with multiple languages, frameworks, and schools of thought.
+Ensuring I am well rounded as a programmer and thinker!
 
-Here are some ideas to get you started:
+My current skills are the following:
+    * Minecraft Bedrock Scripting and Addon making.
+    * JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some skills I plan to develop in the future are:
+    *Web Development
+    *Game Development
+    *TypeScript
+    *React
+    *Python
+    *C
+    
+    
+
